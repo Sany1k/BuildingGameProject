@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7a38661bf6f98ab48b23c863a0477000, type: 3}
+  m_Name: DummyBuildingSettings
+  m_EditorClassIdentifier: 
+  <EntityType>k__BackingField: 1
+  <ConfigId>k__BackingField: dummy
+  <TitileLid>k__BackingField: 
+  <DescriptionLid>k__BackingField: 
+  <PrefabPath>k__BackingField: 
+  <PrefabName>k__BackingField: 
+  <Levels>k__BackingField:
+  - {fileID: 11400000, guid: e204311a1cc1e9f46b96baaf32cff8e8, type: 2}
+  - {fileID: 11400000, guid: 7d3dd55095d45d0468d738f25b91e643, type: 2}
+  - {fileID: 11400000, guid: 50a3d58cd71c81d4fadd8df83de13b53, type: 2}
